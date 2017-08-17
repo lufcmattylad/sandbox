@@ -1,0 +1,138 @@
+{
+    "items": [{
+        "bundleIncluded": false,
+        "bundlePartnumber": "",
+        "bundleBuyable": true,
+        "bundleLangDependant": [{}],
+        "bundleImages": [{}],
+        "bundleAttributes": [{}],
+        "bundleKeyWords": [{}],
+        "products": [{
+            "prodPartnumber": "GIL0555G_Prod",
+            "prodDiscontinuedDate": "",
+            "prodWeight": "34",
+            "prodLength": "25",
+            "prodWidth": "94",
+            "prodHeight": "102",
+            "prodBuyable": true,
+            "prodManufacturerName": "",
+            "prodQtyInPack": "4S      ",
+            "prodIdentifiers": [{
+                "type": "SINGLE_OUTER",
+                "value": "Single"
+            }, {
+                "type": "QTY_PACKET",
+                "value": "4S      "
+            }],
+            "prodLangDependant": [{
+                "langId": "44",
+                "name": "",
+                "shortDescription": "",
+                "longDescription": "",
+                "published": true
+            }],
+            "prodImages": [{
+                "name": "[cmsHost]/catalogimage/20051/en_GB/full/GIL0555G.jpg",
+                "primary": true,
+                "sequence": 1
+            }, {
+                "name": "[cmsHost]/catalogimage/20051/en_GB/full/GIL0555G.jpg",
+                "primary": false,
+                "sequence": 2
+            }],
+            "prodAttributes": [{
+                "attributeId": "IDENTIFIER_SUPPLIER",
+                "valueId": "PRO/045H",
+                "usage": "Descriptive"
+            }, {
+                "attributeId": "CLASSIFICATION",
+                "valueId": "80",
+                "usage": "Descriptive"
+            }],
+            "productKeyWords": [],
+            "skus": [{
+                "skuPartnumber": "GIL0555G",
+                "skuDiscontinuedDate": "",
+                "skuWeight": "34",
+                "skuLength": "",
+                "skuWidth": "94",
+                "skuHeight": "102",
+                "skuBuyable": true,
+                "skuManufacturerName": "",
+                "skuQtyOfPacks": "1",
+                "skuIdentifiers": [{
+                    "type": "IDENTIFIER_PIP",
+                    "value": "02759892"
+                }, {
+                    "type": "IDENTIFIER_EAN",
+                    "value": "3014260262709 "
+                }, {
+                    "type": "SINGLE_OUTER",
+                    "value": "Single"
+                }, {
+                    "type": "QTY_OF_PACKS",
+                    "value": "1"
+                }],
+                "skuLangDependant": [{
+                    "langId": "44",
+                    "name": "",
+                    "shortDescription": "",
+                    "longDescription": "",
+                    "published": true
+                }],
+                "skuImages": [{
+                    "name": "[cmsHost]/catalogimage/20051/en_GB/full/GIL0555G.jpg",
+                    "primary": true,
+                    "sequence": 1
+                }, {
+                    "name": "[cmsHost]/catalogimage/20051/en_GB/full/GIL0555G.jpg",
+                    "primary": false,
+                    "sequence": 2
+                }],
+                "skuAttributes": [],
+                "skuKeyWords": []
+            }, {
+                "skuPartnumber": "8203",
+                "skuDiscontinuedDate": "",
+                "skuWeight": "1730",
+                "skuLength": "",
+                "skuWidth": "94",
+                "skuHeight": "102",
+                "skuBuyable": true,
+                "skuManufacturerName": "",
+                "skuQtyOfPacks": "10",
+                "skuIdentifiers": [{
+                    "type": "IDENTIFIER_PIP",
+                    "value": "02759892"
+                }, {
+                    "type": "IDENTIFIER_EAN",
+                    "value": "3014260418670 "
+                }, {
+                    "type": "SINGLE_OUTER",
+                    "value": "Outer"
+                }, {
+                    "type": "QTY_OF_PACKS",
+                    "value": "10"
+                }],
+                "skuLangDependant": [{
+                    "langId": "44",
+                    "name": "",
+                    "shortDescription": "",
+                    "longDescription": "",
+                    "published": true
+                }],
+                "skuImages": [{
+                    "name": "[cmsHost]/catalogimage/20051/en_GB/full/GIL0555G.jpg",
+                    "primary": true,
+                    "sequence": 1
+                }, {
+                    "name": "[cmsHost]/catalogimage/20051/en_GB/full/GIL0555G.jpg",
+                    "primary": false,
+                    "sequence": 2
+                }],
+                "skuAttributes": [],
+                "skuKeyWords": []
+            }]
+        }]
+    }]
+}
